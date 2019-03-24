@@ -1,4 +1,4 @@
-3.times { puts "Hello World" }
+5.times { puts "Hello World" }
 
 # this is a comment
 puts 1 # so is this
